@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diegosuar/control-gastos-alpha-style.git/static/css/main.a8379841.css",
+    "main.js": "/Diegosuar/control-gastos-alpha-style.git/static/js/main.96f1261c.js",
+    "index.html": "/Diegosuar/control-gastos-alpha-style.git/index.html",
+    "main.a8379841.css.map": "/Diegosuar/control-gastos-alpha-style.git/static/css/main.a8379841.css.map",
+    "main.96f1261c.js.map": "/Diegosuar/control-gastos-alpha-style.git/static/js/main.96f1261c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8379841.css",
+    "static/js/main.96f1261c.js"
+  ]
+}
