@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Diegosuar/control-gastos-alpha-style/static/css/main.a8379841.css",
-    "main.js": "/Diegosuar/control-gastos-alpha-style/static/js/main.327cf0b5.js",
-    "index.html": "/Diegosuar/control-gastos-alpha-style/index.html",
-    "main.a8379841.css.map": "/Diegosuar/control-gastos-alpha-style/static/css/main.a8379841.css.map",
-    "main.327cf0b5.js.map": "/Diegosuar/control-gastos-alpha-style/static/js/main.327cf0b5.js.map"
+    "main.css": "/control-gastos-alpha-style/static/css/main.a8379841.css",
+    "main.js": "/control-gastos-alpha-style/static/js/main.1bb23557.js",
+    "index.html": "/control-gastos-alpha-style/index.html",
+    "main.a8379841.css.map": "/control-gastos-alpha-style/static/css/main.a8379841.css.map",
+    "main.1bb23557.js.map": "/control-gastos-alpha-style/static/js/main.1bb23557.js.map"
   },
   "entrypoints": [
     "static/css/main.a8379841.css",
-    "static/js/main.327cf0b5.js"
+    "static/js/main.1bb23557.js"
   ]
 }
