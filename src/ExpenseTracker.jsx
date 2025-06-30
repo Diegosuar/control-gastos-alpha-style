@@ -199,7 +199,7 @@ const ExpenseTracker = () => {
             
             <div className="max-w-7xl mx-auto bg-white rounded-2xl shadow-2xl overflow-hidden">
                 <div className="text-white p-8 text-center" style={{ background: 'linear-gradient(135deg, #444b1d 0%, #5a6123 50%, #3a4019 100%)' }}>
-                    <h1 className="text-4xl font-bold mb-2 drop-shadow-lg"> Control de Gastos y Ventas - Alpha Style 🧔🏻</h1>
+                    <h1 className="text-4xl font-bold mb-2 drop-shadow-lg"> Control de Gastos y Ventas -Suárez Relojería ⌚💸</h1>
                 </div>
                 
                 <SummaryCards totalIncome={summary.totalIncome} totalExpense={summary.totalExpense} balance={summary.balance} />
